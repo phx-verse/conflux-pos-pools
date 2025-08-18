@@ -60,5 +60,11 @@
     "address": "cfx:achduvbt35zb7ge3fwsjm6ryc6gk76ab5uk4nsc8u9",
     "link": "https://www.validationcloud.io",
     "image": "https://img.cryptorank.io/coins/validation_cloud1709120618541.png"
+  },
+  {
+    "name": "STC Pool",
+    "address": "cfx:acaybd44zg93ew04vyzgmdct0juhjg4vkuj2wcxes6",
+    "icon": "https://conflux.stakewithstc.xyz/favicon.ico",
+    "website": "https://conflux.stakewithstc.xyz/"
   }
 ]
